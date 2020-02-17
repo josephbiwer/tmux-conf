@@ -1,3 +1,3 @@
 # tmux-conf
 
-(my_terminal)[Capture.PNG]
+![my_terminal](Capture.PNG)
